@@ -1,0 +1,14 @@
+:root {
+    --bg-header:url(Background01.png);
+    --bg-foto1:url(foto.png);
+
+}
+.header {
+    background:var(--bg-header);
+}
+.satu .foto{
+    background-color: aqua;
+    max-width: 400px;
+    max-height: 370px;
+    overflow: hidden;
+}
