@@ -15,3 +15,6 @@
 .images {
     border-radius: 20px;
 }
+.images img {
+    height: 350px;
+}
