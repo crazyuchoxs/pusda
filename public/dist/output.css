@@ -697,6 +697,10 @@ video {
   min-height: 240px;
 }
 
+.min-h-\[350px\] {
+  min-height: 350px;
+}
+
 .w-11\/12 {
   width: 91.666667%;
 }
@@ -780,6 +784,18 @@ video {
 
 .content-end {
   align-content: flex-end;
+}
+
+.content-around {
+  align-content: space-around;
+}
+
+.content-baseline {
+  align-content: baseline;
+}
+
+.content-stretch {
+  align-content: stretch;
 }
 
 .justify-start {
@@ -988,6 +1004,14 @@ video {
 
 .text-end {
   text-align: end;
+}
+
+.align-bottom {
+  vertical-align: bottom;
+}
+
+.align-text-bottom {
+  vertical-align: text-bottom;
 }
 
 .font-sans {
