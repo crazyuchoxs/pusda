@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "header-image": "url('img/background01.png')",
+        'hero': "url('https://academy.kampusumarusman.com/wp-content/uploads/2023/03/BG-1.png')",
       },
     },
   },
